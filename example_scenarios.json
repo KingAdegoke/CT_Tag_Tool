@@ -1,0 +1,134 @@
+[
+  {
+    "game": "Minecraft",
+    "title": "Redstone-Powered Door",
+    "scenario": "A player builds a redstone-powered door that opens when stepping on a pressure plate.",
+    "skills": ["Algorithmic Thinking", "Debugging", "Decomposition"]
+  },
+  {
+    "game": "Minecraft",
+    "title": "Automated Crop Farm with Pistons",
+    "scenario": "A player constructs an automated crop farm using water channels and pistons.",
+    "skills": ["Pattern Recognition", "Abstraction"]
+  },
+  {
+    "game": "Minecraft",
+    "title": "Torch Placement Optimization",
+    "scenario": "A player optimizes the placement of torches to prevent monster spawning.",
+    "skills": ["Evaluation and Refinement", "Pattern Recognition"]
+  },
+  {
+    "game": "Minecraft",
+    "title": "Stronghold Navigation with Coordinates",
+    "scenario": "A player uses coordinates to locate a stronghold using Eyes of Ender.",
+    "skills": ["Abstraction", "Algorithmic Thinking"]
+  },
+  {
+    "game": "Minecraft",
+    "title": "Redstone Elevator Debugging",
+    "scenario": "A player walks through a redstone elevator trying to figure out why it is failing to activate.",
+    "skills": ["Debugging", "Decomposition"]
+  },
+  {
+    "game": "Minecraft",
+    "title": "Hopper Sorting Experimentation",
+    "scenario": "A player experiments with hopper placement to automate item sorting.",
+    "skills": ["Algorithmic Thinking", "Evaluation and Refinement"]
+  },
+  {
+    "game": "Minecraft",
+    "title": "Minecart Transport System",
+    "scenario": "A player configures a minecart system to transport items across multiple stations.",
+    "skills": ["Decomposition", "Abstraction", "Debugging"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "AoE Counter Positioning",
+    "scenario": "A player rearranges units to counter enemy area-of-effect damage.",
+    "skills": ["Pattern Recognition", "Abstraction"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Item Distribution by Synergy",
+    "scenario": "A player modifies their item distribution based on champion synergies.",
+    "skills": ["Algorithmic Thinking", "Evaluation and Refinement"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Opponent Scouting and Prediction",
+    "scenario": "A player scouts opponents and predicts optimal positioning.",
+    "skills": ["Pattern Recognition", "Algorithmic Thinking"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Economy Decision-Making",
+    "scenario": "A player evaluates economy decisions to slow-roll for specific champions.",
+    "skills": ["Evaluation and Refinement", "Abstraction"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Team Comp Rotation During Carousel",
+    "scenario": "A player rotates team comps during the carousel round based on item priority.",
+    "skills": ["Decomposition", "Abstraction"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Unexpected Item Drop Adaptation",
+    "scenario": "A player adapts their board strategy after receiving unexpected item drops.",
+    "skills": ["Evaluation and Refinement", "Debugging"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Trait Transition Mid-Game",
+    "scenario": "A player builds toward a trait bonus and transitions their comp mid-game.",
+    "skills": ["Algorithmic Thinking", "Decomposition"]
+  },
+  {
+    "game": "Teamfight Tactics",
+    "title": "Streak Strategy Comparison",
+    "scenario": "A player compares win streak vs. loss streak strategies to maximize income.",
+    "skills": ["Abstraction", "Evaluation and Refinement"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "Shield Bait Trap",
+    "scenario": "A player lures an opponent into a trap using shield baiting.",
+    "skills": ["Abstraction", "Algorithmic Thinking"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "Combo Chain Testing",
+    "scenario": "A player repeats combo sequences to test true combo chains.",
+    "skills": ["Debugging", "Evaluation and Refinement"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "Edge Guard Timing Adjustment",
+    "scenario": "A player adjusts edge guarding timing after failed attempts.",
+    "skills": ["Debugging", "Evaluation and Refinement"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "DI Prediction and Adaptation",
+    "scenario": "A player predicts opponent DI (directional influence) and adapts.",
+    "skills": ["Pattern Recognition", "Abstraction"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "Kill Confirm Comparison",
+    "scenario": "A player compares two characters kill confirms across different stages.",
+    "skills": ["Decomposition", "Evaluation and Refinement"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "Recovery Mixup to Avoid Punish",
+    "scenario": "A player mixes up recovery options to avoid being punished at the ledge or off stage.",
+    "skills": ["Abstraction", "Algorithmic Thinking"]
+  },
+  {
+    "game": "Super Smash Bros",
+    "title": "Opening Pattern Recognition",
+    "scenario": "A player identifies a repeatable opening against a specific playstyle.",
+    "skills": ["Pattern Recognition", "Evaluation and Refinement"]
+  }
+]

@@ -1,0 +1,30 @@
+1. Pattern Recognition
+Definition: Identifying repeated structures, behaviors, or trends in data, environments, or systems in order to make predictions or draw conclusions.
+Example: Recognizing common team compositions in TFT or noticing shield timing patterns in Super Smash Bros.
+Research Support: Grover & Pea (2013); Weintrop et al. (2016)
+
+2. Abstraction
+Definition: Simplifying complexity by focusing only on relevant information while ignoring extraneous details.
+Example: In TFT, focusing on unit synergies and cooldown timing instead of animations or cosmetic effects; in Minecraft, treating redstone logic as functional modules rather than visual blocks.
+Research Support: Brennan & Resnick (2012); Weintrop et al. (2016)
+
+3. Decomposition
+Definition: Breaking down a complex problem or system into smaller, more manageable sub-problems.
+Example: In Minecraft, dividing the steps of a farm build into item sorting, harvesting, and redstone activation; in TFT, separating positioning, economy, and itemization strategies.
+Research Support: Grover & Pea (2013); Weintrop et al. (2016)
+
+4. Algorithmic Thinking
+Definition: Creating a series of ordered steps or rules to solve a problem or achieve a desired outcome.
+Example: Establishing a consistent TFT opener such as buying interest-generating units and hitting a Level 7 power spike; in Smash, executing a combo string based on conditional inputs.
+Research Support: Grover & Pea (2013); Weintrop et al. (2016)
+
+5. Debugging
+Definition: Systematically identifying, analyzing, and correcting errors or inefficiencies in a strategy or system.
+Example: Watching a replay to identify a mispositioned unit in TFT, or fixing a broken redstone circuit in Minecraft by tracing signal paths.
+Research Support: Brennan & Resnick (2012); Asbell-Clarke et al. (2021)
+
+6. Evaluation and Refinement
+Definition: Assessing the effectiveness of a solution or strategy and iteratively improving it based on feedback or results.
+Example: Modifying your champion itemization in TFT after seeing poor performance, or changing a mob farm layout after testing overnight efficiency in Minecraft.
+Research Support: Weintrop et al. (2016); Asbell-Clarke et al. (2021)
+
